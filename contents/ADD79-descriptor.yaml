@@ -1,0 +1,78 @@
+id: 2719
+typeCode: ADD
+description: Content ADD 79 description
+mainGroup: free
+status: PUBLIC
+listModel: '48'
+defaultModel: '49'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Maiores quae recusandae et nostrum nam totam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Maiores quae recusandae et nostrum nam totam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext00
+    value: null
+    values:
+      en: <p>Maiores quae recusandae et nostrum nam totam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Maiores quae recusandae et nostrum nam totam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

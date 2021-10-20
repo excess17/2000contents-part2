@@ -1,0 +1,95 @@
+id: 3856
+typeCode: AEI
+description: Content AEI 16 description
+mainGroup: free
+status: PUBLIC
+listModel: '138'
+defaultModel: '139'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Placeat quas aperiam ipsam id fugit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist05
+    value: null
+    values: {}
+    elements:
+      - code: monolist05
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist05
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Placeat quas aperiam ipsam id fugit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext01
+    value: null
+    values:
+      en: <p>Placeat quas aperiam ipsam id fugit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text08
+    value: null
+    values:
+      en: <p>Placeat quas aperiam ipsam id fugit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Placeat quas aperiam ipsam id fugit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

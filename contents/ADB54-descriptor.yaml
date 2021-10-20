@@ -1,0 +1,78 @@
+id: 2534
+typeCode: ADB
+description: Content ADB 54 description
+mainGroup: free
+status: PUBLIC
+listModel: '36'
+defaultModel: '37'
+attributes:
+  - code: longtext08
+    value: null
+    values:
+      en: <p>Dolor quisquam inventore id consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Dolor quisquam inventore id consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text09
+    value: null
+    values:
+      en: <p>Dolor quisquam inventore id consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Dolor quisquam inventore id consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
